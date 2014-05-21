@@ -1,0 +1,5 @@
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\IocWithGenerics\bin\Debug\IocWithGenerics.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\IocWithGenerics\bin\Debug\IocWithGenerics.pdb
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\IocWithGenerics\obj\Debug\IocWithGenerics.csprojResolveAssemblyReference.cache
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\IocWithGenerics\obj\Debug\IocWithGenerics.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\IocWithGenerics\obj\Debug\IocWithGenerics.pdb

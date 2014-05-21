@@ -1,0 +1,11 @@
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\TestIoc.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\TestIoc.pdb
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\IocWithGenerics.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\Microsoft.Web.XmlTransform.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\NuGet.Core.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\nunit.framework.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\IocWithGenerics.pdb
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\bin\Debug\nunit.framework.xml
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\obj\Debug\TestIoc.csprojResolveAssemblyReference.cache
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\obj\Debug\TestIoc.dll
+E:\db\Dropbox\Personal\Work\Code\ShowCase\IocWithGenerics\TestIoc\obj\Debug\TestIoc.pdb
